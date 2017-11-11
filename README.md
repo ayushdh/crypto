@@ -1,0 +1,2 @@
+# crypto
+Ideas on Cryptocurrencies
